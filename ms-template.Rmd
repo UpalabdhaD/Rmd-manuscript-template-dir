@@ -1,0 +1,32 @@
+---
+title: "MS template"
+subtitle: "Tezpur University"
+author: "Upalabdha Dey"
+toc: True
+date: "2024-07-18"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+\newpage
+
+# Abstruct
+
+\newpage
+
+# Introduction
+
+\newpage
+
+# Methodology
+
+\newpage
+
+# Results
+
+\newpage
+
+# References
